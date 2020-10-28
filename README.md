@@ -1,5 +1,14 @@
 # Elas.net-CEFET-MG
-Repositório do Projeto de Extensão Elas.net - Rede de Mulheres da Computação, oferecido pelo CEFET-MG.
+Repositório do Projeto de Extensão Elas.net - Rede de Mulheres da Computação, oferecido pelo DECOM (Departamento de Computação), CEFET-MG.
+
+## 💁🏻‍♀️ Integrantes:
+- Kecia Marques: Professora do CEFET-MG - Coordenadora do Elas.net
+- Glívia Angélica: Professora e Pesquisadora de Interação Humano Computador(IHC) do CEFET-MG
+- Sílvia Calmon: Professora de Redes de Computadores do CEFET-MG 
+- Mívian: Doutoranda em Ciência da Computação no DCC/UFMG
+- Júlia Gonzaga: Aluna do Técnino em Informática no CEFET-MG - Bolsista Interno
+- Rosane Silva: Aluna da Engenharia da Computação no CEFET-MG - Bolsista Interno
+
 ## 🤔 Como acessar o Repositório e os arquivos?
 - 1º Opção: Baixar a pasta em formato zip - Clique no botão "Code ou Código" e selecione "Baixar Zip" para acessar a pasta e os arquivos;
 
